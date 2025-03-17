@@ -1,4 +1,5 @@
-# ETL 
+# ETL Base de Dados para Venda de Jogos
+
 
 Esse código em M (Power Query) realiza uma série de transformações em uma planilha Excel, configurando um processo de ETL (Extract, Transform, Load). Aqui está a explicação passo a passo das alterações feitas:
 
@@ -19,4 +20,16 @@ $ Cria uma nova coluna chamada "Multiplicação" para calcular o preço total, m
   quantidade de estoque (Stock Quantity).
 $ Ajusta a ordem das colunas para uma sequência específica.
 $ Renomeia "Preço Unit Price" para "Unit Price" e "Multiplicação" para "Total Price".
+
+
+Base de Dados para tratamento
+![image](https://github.com/user-attachments/assets/a934362a-c944-4113-9de5-6534e8a6bfa0
+
+Base de Dados Tratada
+![image](https://github.com/user-attachments/assets/c1eea99d-884e-4fd7-b69e-e1f0e3e706aa)
+
+
+
+
+
 $ Remove o prefixo "Batch-" da coluna "Batc
