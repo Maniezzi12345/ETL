@@ -23,7 +23,8 @@ $ Renomeia "Preço Unit Price" para "Unit Price" e "Multiplicação" para "Total
 
 
 Base de Dados para tratamento
-![image](https://github.com/user-attachments/assets/a934362a-c944-4113-9de5-6534e8a6bfa0
+![image](https://github.com/user-attachments/assets/dbd0a332-e191-49ed-b838-0f4222f85740)
+
 
 Base de Dados Tratada
 ![image](https://github.com/user-attachments/assets/c1eea99d-884e-4fd7-b69e-e1f0e3e706aa)
