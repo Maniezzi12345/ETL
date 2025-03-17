@@ -5,8 +5,8 @@ Esse código em M (Power Query) realiza uma série de transformações em uma pl
 
 ##Alterações feitas na Tabela 
 
-1.Carrega os dados de um arquivo Excel ....
-2.Extrai a aba chamada "SAP-EXTRACT".
+- Carrega os dados de um arquivo Excel ....
+- Extrai a aba chamada "SAP-EXTRACT".
 3.Define os tipos de dados de várias colunas, como texto, inteiro e qualquer outro tipo.
 4.Remove a coluna "Package Id".
 5.Exclui linhas onde o valor na coluna "Game" é null ou contém padrões como "---", "----" e "-----".
